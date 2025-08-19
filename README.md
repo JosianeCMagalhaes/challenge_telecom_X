@@ -87,7 +87,7 @@ Foram analisadas variáveis e observado:
 ## ✍️ Autor
 Como parte de um desafio de análise de dados. Desenvolvido por
 
-Mariana Fernandes.
+Josiane Magalhães.
 
 <br>
 
